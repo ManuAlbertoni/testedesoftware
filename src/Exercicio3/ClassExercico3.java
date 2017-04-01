@@ -1,15 +1,14 @@
 package Exercicio3;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 import org.joda.time.DateTime;
 import org.joda.time.IllegalFieldValueException;
 import org.joda.time.Interval;
 import org.joda.time.LocalDate;
 import org.joda.time.LocalTime;
-import org.joda.time.Period;
 import org.junit.Test;
-import org.junit.internal.Throwables;
 
 public class ClassExercico3 {
    @Test
